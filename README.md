@@ -6,3 +6,6 @@ onee two three
 oeoeoe
 
 ## Github workshop
+
+## Jira workshop
+Jira is used for Project management, mainly task planning
